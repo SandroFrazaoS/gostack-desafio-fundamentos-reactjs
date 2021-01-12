@@ -57,7 +57,7 @@ yarn start
 ![2][tela2]
 
 
-[tela1]: /assets/1.png
+[tela1]: /assets/11.png
 
-[tela2]: /assets/2.png
+[tela2]: /assets/12.png
 
